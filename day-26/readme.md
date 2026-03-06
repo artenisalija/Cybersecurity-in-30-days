@@ -1,4 +1,4 @@
-# Day 27: Threat Hunting Introduction — TryHackMe Learning Journal
+# Day 26: Threat Hunting Introduction — TryHackMe Learning Journal
 
 ## What I Learned
 
